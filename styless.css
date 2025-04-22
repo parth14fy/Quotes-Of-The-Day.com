@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.heading{
+    font-size: 45px;
+    font-weight: bolder;
+    color: black;
+}
+.sub-heading{
+    font-family: cursive;
+    color: #151515;
+}
+.btn{
+    width: 200px;
+    padding: 10px 0px;
+    margin: 20px 0px;
+    border: none;
+    background-color: #151515cf;
+    color: white;
+    border-radius: 2.5px;
+    cursor: pointer;
+}
+.btn:hover{
+    border: 2px solid white;
+}
+.quote-container{
+    padding: 20px;
+    border: 1px solid black;
+    background-color: white;
+
+}
+#Quote{
+    color: #000;
+}
+#Author{
+    color: purple;
+    text-align: right;
+}
