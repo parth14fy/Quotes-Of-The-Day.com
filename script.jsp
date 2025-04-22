@@ -274,6 +274,281 @@ let quotesArrayData =
             "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
             "author": "Mahatma Gandhi",
         },
+        {
+            "quote": "You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.",
+            "author": "Mahatma Gandhi",
+          
+        },
+        {
+            "quote": "In a gentle way, you can shake the world.",
+            "author": "Mahatma Gandhi",
+          
+        },
+        {
+            "quote": "He that can have patience can have what he will.",
+            "author": "Benjamin Franklin",
+           
+        },
+        {
+            "quote": "Either write something worth reading or do something worth writing.",
+            "author": "Benjamin Franklin",
+         
+        },
+        {
+            "quote": "Tell me and I forget, teach me and I may remember, involve me and I learn.",
+            "author": "Benjamin Franklin",
+         
+        },
+        {
+            "quote": "Never ruin an apology with an excuse.",
+            "author": "Benjamin Franklin",
+           
+        },
+        {
+            "quote": "Early to bed and early to rise makes a man healthy, wealthy and wise.",
+            "author": "Benjamin Franklin",
+          
+        },
+        {
+            "quote": "By failing to prepare, you are preparing to fail.",
+            "author": "Benjamin Franklin",
+          
+        },
+        {
+            "quote": "Those who look for the bad in people will surely find it.",
+            "author": "Abraham Lincoln",
+          
+        },
+        {
+            "quote": "People don't realize how a man's whole life can be changed by one book.",
+            "author": "Malcolm X",
+          
+        },
+        {
+            "quote": "If you have no critics you'll likely have no success.",
+            "author": "Malcolm X",
+           
+        },
+        {
+            "quote": "I'm for truth, no matter who tells it. I'm for justice, no matter who it's for or against.",
+            "author": "Malcolm X",
+         
+        },
+        {
+            "quote": "It is not a lack of Love, but a lack of People that makes unhappy marriages.",
+            "author": "Friedrich Nietzsche",
+        
+        },
+        {
+            "quote": "He who has a why to live can bear almost any how.",
+            "author": "Friedrich Nietzsche",
+           
+        },
+        {
+            "quote": "That which does not kill us makes us stronger",
+            "author": "Friedrich Nietzsche",
+         
+        },
+        {
+            "quote": "To live is to suffer, to survive is to find some meaning in the suffering.",
+            "author": "Friedrich Nietzsche",
+         
+        },
+        {
+            "quote": "There is always some madness in love. But there is also always some reason in madness.",
+            "author": "Friedrich Nietzsche",
+           
+        },
+        {
+            "quote": "No price is too high to pay for the privilege of owning yourself.",
+            "author": "Friedrich Nietzsche",
+          
+        },
+        {
+            "quote": "You know, when it works, Love is amazing. It's not overrated.",
+            "author": "Sarah Dessen",
+          
+        },
+        {
+            "quote": "Life is an awful, ugly place to not have a best friend.",
+            "author": "Sarah Dessen",
+          
+           
+        },
+        {
+            "quote": "There is never a time or place for true love. It happens accidentally, in a heartbeat, in a single flashing, throbbing moment.",
+            "author": "Sarah Dessen",
+       
+        },
+        {
+            "quote": "Anyone can hide. Facing up to things, working through them, that's what makes you strong.",
+            "author": "Sarah Dessen",
+     
+        },
+        {
+            "quote": "If you want to live a happy life, tie it to a goal, not to people or things",
+            "author": "Albert Einstein",
+     
+        },
+        {
+            "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+            "author": "Steve Jobs",
+         
+        },
+        {
+            "quote": "Everything around you that you call life was made up by people, and you can change it.",
+            "author": "Steve Jobs",
+        
+        },
+        {
+            "quote": "Design is not just what it looks like and feels like. Design is how it works.",
+            "author": "Steve Jobs",
+        
+        },
+        {
+            "quote": "Innovation distinguishes between a leader and a follower.",
+            "author": "Steve Jobs",
+        
+        },
+        {
+            "quote": "Sometimes life is going to hit you in the head with a brick. Don't lose faith.",
+            "author": "Steve Jobs",
+       
+        },
+        {
+            "quote": "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
+            "author": "Steve Jobs",
+        
+        },
+        {
+            "quote": "A lot of times, people don't know what they want until you show it to them.",
+            "author": "Steve Jobs",
+       
+        },
+        {
+            "quote": "Let’s go invent tomorrow rather than worrying about what happened yesterday.",
+            "author": "Steve Jobs",
+        
+        },
+        {
+            "quote": "The most precious thing that we all have with us is time.",
+            "author": "Steve Jobs",
+        
+        },
+        {
+            "quote": "You have to trust in something, your gut, destiny, life, karma, whatever.",
+            "author": "Steve Jobs",
+        
+        },
+        {
+            "quote": "Every child is an artist, the problem is staying an artist when you grow up.",
+            "author": "Pablo Picasso",
+        
+        },
+        {
+            "quote": "The purpose of art is washing the dust of daily life off our souls.",
+            "author": "Pablo Picasso",
+        
+        },
+        {
+            "quote": "Good artists copy, great artists steal.",
+            "author": "Pablo Picasso",
+        
+        },
+        {
+            "quote": "Art is a lie that makes us realize truth.",
+            "author": "Pablo Picasso",
+         
+        },
+        {
+            "quote": "Inspiration does exist, but it must find you working.",
+            "author": "Pablo Picasso",
+        
+        },
+        {
+            "quote": "Strive not to be a success, but rather to be of value.",
+            "author": "Albert Einstein",
+        
+        },
+        {
+            "quote": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+            "author": "Winston Churchill",
+        
+        },
+        {
+            "quote": "We learn wisdom from failure much more than from succes.",
+            "author": "Samuel Smiles",
+        
+        },
+        {
+            "quote": "Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.",
+            "author": "Samuel Smiles",
+          
+        },
+        {
+            "quote": "We often discover what will do, by finding out what will not do; and probably he who never made a mistake never made a discovery.",
+            "author": "Samuel Smiles",
+          
+        },
+        {
+            "quote": "Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever.",
+            "author": "Samuel Smiles",
+        
+        },
+        {
+            "quote": "Life will always be to a large extent what we ourselves make it.",
+            "author": "Samuel Smiles",
+        
+        },
+        {
+            "quote": "Enthusiasm... the sustaining power of all great action.",
+            "author": "Samuel Smiles",
+        
+        },
+        {
+            "quote": "People who are crazy enough to think they can change the world, are the ones who do.",
+            "author": "Winston Churchill",
+       
+        },
+        {
+            "quote": "The fool doth think he is wise, but the wise man knows himself to be a fool.",
+            "author": "William Shakespeare",
+          
+        },
+        {
+            "quote": "There is nothing either good or bad, but thinking makes it so.",
+            "author": "William Shakespeare",
+          
+        },
+        {
+            "quote": "You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it.",
+            "author": "Malcolm X",
+         
+        },
+        {
+            "quote": "Hell is empty and all the devils are here.",
+            "author": "William Shakespeare",
+            
+        },
+        {
+            "quote": "The course of true Love never did run smooth.",
+            "author": "William Shakespeare",
+        
+        },
+        {
+            "quote": "Expectation is the root of all heartache.",
+            "author": "William Shakespeare",
+           
+        },
+        {
+            "quote": "Listen to many, speak to a few.",
+            "author": "William Shakespeare",
+           
+        },
+        {
+            "quote": "One may smile, and smile, and be a villain.",
+            "author": "William Shakespeare",
+        } 
         
     ];
 
