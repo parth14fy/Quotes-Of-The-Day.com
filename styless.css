@@ -208,6 +208,12 @@ body {
     100% {
       transform: scale(1.2) translate(-2%, -2%);
     }
+  }@media (max-width: 768px) {
+    .container {
+      padding: 1rem;
+      font-size: 14px;
+    }
   }
+  
   
   
